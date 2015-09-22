@@ -54,6 +54,10 @@
         "skipBlankLines": false
       }
     ],
+    "dot-location": [
+      2,
+      "property"
+    ],
     "no-fallthrough": 0,
     "default-case": 0,
     "no-plusplus": 0,
