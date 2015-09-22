@@ -58,6 +58,9 @@
       2,
       "property"
     ],
+    "space-after-keywords": 2,
+    "space-before-keywords": 2,
+    "space-before-function-paren": 2,
     "no-fallthrough": 0,
     "default-case": 0,
     "no-plusplus": 0,
